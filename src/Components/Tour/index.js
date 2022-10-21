@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class Tour extends Component {
+class Tour extends Component {
   render() {
     return (
       <div>
