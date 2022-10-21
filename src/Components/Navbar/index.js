@@ -1,13 +1,11 @@
 import React from 'react'
-import "./style.css"
-import logo from "../../logo.svg"
-
+import logo from '../../logo.svg'
+import './style.scss';
 
 function Navbar() {
   return (
     <nav className='navbar'>
-        <img src={logo} alt="sehirlerimiz"/>
-
+        <img src={logo} alt='city' />
     </nav>
   )
 }
