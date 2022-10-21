@@ -1,6 +1,6 @@
 import './App.scss';
 import React, { Component } from 'react'
-import Navbar from './components/Navbar';
+import Navbar from './Components/Navbar';
 
 
 
