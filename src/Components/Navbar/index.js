@@ -14,7 +14,7 @@ function Navbar() {
             <a href='/' className='nav-link'>about</a>
           </li>
           <li>
-            <a href='/' className='nav-link'>tours</a>
+            <a href='/' className='nav-link active'>tours</a>
           </li>
 
         </ul>
